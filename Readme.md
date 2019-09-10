@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Яна Халецкая](https://up.htmlacademy.ru/javascript/18/user/983527).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Усиков](https://htmlacademy.ru/profile/id939693).
 
 ---
 
